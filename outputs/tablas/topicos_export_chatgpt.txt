@@ -1,0 +1,151 @@
+====================================================================================================
+DATOS DE TOPICOS PARA ANALISIS - LULULEMON US vs EUROPA
+====================================================================================================
+
+SENTIMIENTO GENERAL POR REGION (sin dividir por topico ni plataforma)
+----------------------------------------------------------------------
+  US: n=1672, positivo=40.3%, neutro=14.8%, negativo=44.9%, media=2.91 estrellas
+  Europa: n=407, positivo=41.5%, neutro=14.7%, negativo=43.7%, media=2.95 estrellas
+
+SENTIMIENTO POR PLATAFORMA Y REGION
+----------------------------------------------------------------------
+  US / Instagram: n=917, positivo=41.2%, negativo=46.1%, media=2.89
+  US / Tiktok: n=641, positivo=44.6%, negativo=35.6%, media=3.17
+  US / Trustpilot: n=114, positivo=8.8%, negativo=87.7%, media=1.50
+  Europa / Instagram: n=45, positivo=62.2%, negativo=33.3%, media=3.53
+  Europa / Tiktok: n=303, positivo=43.2%, negativo=37.6%, media=3.10
+  Europa / Trustpilot: n=59, positivo=16.9%, negativo=83.1%, media=1.76
+
+
+====================================================================================================
+TOPICOS US (modelo de 5 topicos forzados)
+====================================================================================================
+
+TOPICO 0 (483 comentarios)
+  Palabras clave: love, preppy, she, tag, why, vsco, her, follow, cute, tags
+  Sentimiento: positivo=49%, negativo=37%, media=3.2 estrellas
+  Plataformas: Instagram: 55% | Tiktok: 44% | Trustpilot: 0%
+  Comentarios representativos (top por likes):
+    1. [instagram] (? likes, positivo) I promise this reel makes more sense if you watch the one before it
+    2. [instagram] (? likes, neutro) Some white girl died today
+    3. [instagram] (? likes, positivo) I LOVE that the tag comes off easy
+    4. [instagram] (? likes, neutro) Same The tag goes but the memory of my size goes with it
+    5. [instagram] (? likes, positivo) Like why are the tags a MILE LONGGGG
+
+TOPICO 1 (415 comentarios)
+  Palabras clave: gym, size, shoes, leggings, pants, socks, fit, barefoot, wear, quality
+  Sentimiento: positivo=34%, negativo=49%, media=2.7 estrellas
+  Plataformas: Instagram: 65% | Tiktok: 30% | Trustpilot: 6%
+  Comentarios representativos (top por likes):
+    1. [instagram] (? likes, positivo) Bought all that for a  day gym phase
+    2. [instagram] (? likes, negativo) All polyester clothes stink
+    3. [instagram] (? likes, positivo) fun fact not a single damn piece is washed it all mingles in the warehouse with all the used underwear and the whole pile smells like BO do not thrift if youre gonna be the hygiene police
+    4. [instagram] (? likes, negativo) Lulu Lemon leggings are directly tied to infertility in women
+    5. [instagram] (? likes, negativo) Those are to be removed
+
+TOPICO 2 (182 comentarios)
+  Palabras clave: customer, service, store, card, order, items, gift, company, money, told
+  Sentimiento: positivo=24%, negativo=63%, media=2.2 estrellas
+  Plataformas: Instagram: 12% | Tiktok: 46% | Trustpilot: 42%
+  Comentarios representativos (top por likes):
+    1. [instagram] (? likes, negativo) Cant you exchange them for new ones with lululemon
+    2. [instagram] (? likes, positivo) Check your DMs after commenting SHOP for the link Depending on your privacy settings it may be in the requests folder  To get my links sent straight to your DMs make sure to follow me BEFORE commenting SHOP Its not in my control haha thats how Instagrams privacy settings work  Theyre also both linke
+    3. [instagram] (? likes, negativo) i dont have any money at all neither do my parents for preppy stuff
+    4. [instagram] (? likes, positivo) Its giving Daddies money
+    5. [instagram] (? likes, negativo) We get youre rich You probably grew up rich Its not preppy or vsco its just having money to buy unnecessarily expensive products
+
+TOPICO 3 (44 comentarios)
+  Palabras clave: lift, marine, corps, sgt, calebkirk, gate, reenlisted, off, saw, reenlistment
+  Sentimiento: positivo=43%, negativo=52%, media=2.9 estrellas
+  Plataformas: Instagram: 95% | Tiktok: 5% | Trustpilot: 0%
+  Comentarios representativos (top por likes):
+    1. [instagram] (? likes, positivo) an angel gained its wings
+    2. [instagram] (? likes, negativo) I was waiting for the salute to be held as homeboy was lowering the lift gate
+    3. [instagram] (? likes, positivo) Love it Got Sgt on April st Whole command was there My Maj had printed off and read out a whole demotion and had Gunny rip off my Cpl
+    4. [instagram] (? likes, negativo) Idk I saw someone do theirs while sky diving this week
+    5. [instagram] (? likes, positivo) Sweet flight suit What aircraft do you fly on
+
+TOPICO 4 (8 comentarios)
+  Palabras clave: her, foot, covered, diabolical, routine, disease, dirt, mouth, wonder, peoples
+  Sentimiento: positivo=75%, negativo=12%, media=4.0 estrellas
+  Plataformas: Instagram: 100% | Tiktok: 0% | Trustpilot: 0%
+  Comentarios representativos (top por likes):
+    1. [instagram] (? likes, positivo) All I can see is fungal
+    2. [instagram] (? likes, negativo) You ever see those people that have nail fungus and wonder how they got that This is one way
+    3. [instagram] (? likes, neutro) Her feet arent a danger to other people Other peoples shoes are covered in urine from walking through the bathroom The dirt is her issue to deal with
+    4. [instagram] (? likes, positivo) This is how you get foot fungus
+    5. [instagram] (? likes, positivo) I see nail fungus in her future
+
+====================================================================================================
+TOPICOS EUROPA (modelo de 5 topicos forzados)
+====================================================================================================
+
+TOPICO 0 (121 comentarios)
+  Palabras clave: size, wear, bag, pair, buy, black, quality, white, find, clothes
+  Sentimiento: positivo=36%, negativo=37%, media=2.9 estrellas
+  Plataformas: Instagram: 4% | Tiktok: 88% | Trustpilot: 7%
+  Comentarios representativos (top por likes):
+    1. [instagram] (? likes, positivo) Very cute color
+    2. [instagram] (? likes, positivo) Beautiful feet
+    3. [instagram] (? likes, negativo) Ehhhhhh, put your socks on. I've already reported people like that to the trainer. It's not possible
+    4. [instagram] (? likes, neutro) Fuck you take off your shoes and socks in the gym A little respect for others hey
+    5. [instagram] (? likes, positivo) Gorgeous feet
+
+TOPICO 1 (118 comentarios)
+  Palabras clave: call, her, love, body, girl, look, comment, why, feel, she
+  Sentimiento: positivo=57%, negativo=35%, media=3.4 estrellas
+  Plataformas: Instagram: 20% | Tiktok: 80% | Trustpilot: 0%
+  Comentarios representativos (top por likes):
+    1. [instagram] (? likes, positivo) colincannella
+    2. [instagram] (? likes, positivo) laurenmartin
+    3. [instagram] (? likes, negativo) jonahwegegener no you cant
+    4. [instagram] (? likes, positivo) Beautiful Quee Lets go
+    5. [instagram] (? likes, positivo) katiemarvin
+
+TOPICO 2 (48 comentarios)
+  Palabras clave: order, service, customer, time, received, refund, online, company, money, card
+  Sentimiento: positivo=10%, negativo=88%, media=1.6 estrellas
+  Plataformas: Instagram: 0% | Tiktok: 12% | Trustpilot: 88%
+  Comentarios representativos (top por likes):
+    1. [tiktok] (? likes, positivo) I love Lululemon highly recommended
+    2. [tiktok] (? likes, negativo) I mean Lululemon is notorious for being fatphobic and racist but yeah theyre getting crazy with it
+    3. [tiktok] (? likes, positivo) As an actual size  that cant shop at Lululemon  thank you
+    4. [tiktok] (? likes, negativo) My EXACT thoughts when she made the same noises and facevery valid crash out Lululemon sizing is all over the place though Previous employee heremy closet has sizes from  all the way to
+    5. [tiktok] (? likes, neutro) Lululemon is so expensive
+
+TOPICO 3 (10 comentarios)
+  Palabras clave: eastdih, video, trend, tech, real, nike, bro, year, finally, day
+  Sentimiento: positivo=70%, negativo=10%, media=3.8 estrellas
+  Plataformas: Instagram: 0% | Tiktok: 100% | Trustpilot: 0%
+  Comentarios representativos (top por likes):
+    1. [tiktok] (? likes, negativo) Eastdih owns this trend n bro aint even do it
+    2. [tiktok] (? likes, positivo) Sticker Wear that lulu again
+    3. [tiktok] (? likes, neutro) where eastdih at
+    4. [tiktok] (? likes, positivo) Sticker east dih respond
+    5. [tiktok] (? likes, positivo) Sticker you da real nike tech
+
+TOPICO 4 (8 comentarios)
+  Palabras clave: loved, until, read, better, run, comment, love, , , 
+  Sentimiento: positivo=62%, negativo=25%, media=3.6 estrellas
+  Plataformas: Instagram: 12% | Tiktok: 88% | Trustpilot: 0%
+  Comentarios representativos (top por likes):
+    1. [instagram] (? likes, positivo) classicbl cs
+    2. [tiktok] (? likes, positivo) Currently rehearsing my lines
+    3. [tiktok] (? likes, positivo) The classical music in the background
+    4. [tiktok] (? likes, positivo) You had me  love the music choices
+    5. [tiktok] (? likes, positivo) Loved the classical music made it better
+
+
+====================================================================================================
+INSTRUCCION PARA CHATGPT:
+====================================================================================================
+Con los datos de arriba, genera una tabla para cada region (US y Europa) con las columnas:
+- Topico (titulo descriptivo, ej: 'Problemas de envio', 'Estilo de vida')
+- Palabras clave (las 5 mas representativas)
+- Explicacion (1-2 frases describiendo de que habla el topico)
+- Sentimiento dominante (positivo/negativo/mixto)
+- Plataforma principal (donde aparece mas)
+- N comentarios
+
+Ademas, proporciona 5 estrategias de marketing accionables basadas en estos datos,
+diferenciadas entre US y Europa, que una marca como Lululemon podria implementar.
